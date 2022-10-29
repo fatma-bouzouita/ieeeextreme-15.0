@@ -1,0 +1,1 @@
+n=input();print('mkesSraRNEtATo'.find(n[(len(n)-1)//2])+1)
